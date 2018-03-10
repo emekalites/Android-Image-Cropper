@@ -23,6 +23,7 @@
     <item
         android:id="@+id/main_action_crop"
         android:title="@string/main_action_crop"
+        android:icon="@drawable/ic_done"
         app:showAsAction="always"/>
 
 </menu>
